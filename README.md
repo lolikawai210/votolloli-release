@@ -14,7 +14,7 @@ BLE & SPP Tool for Votol Controller
 Nếu ứng dụng giúp ích cho bạn, hãy mời mình một ly cà phê ☕.
 
 <p align="center">
-  <img src="images/qr-donate.jpg" width="280">
+  <img src="images/qr-donate.png" width="280">
 </p>
 
 **MoMo:** +84866704348

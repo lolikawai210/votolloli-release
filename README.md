@@ -5,7 +5,7 @@ BLE & SPP Tool for Votol Controller
 ## 📥 Download
 
 - Android: **votololi.apk**
-- iOS: **VotolLoli.ipa**
+- iOS 14 or late : **VotolLoli.ipa**
 
 ---
 

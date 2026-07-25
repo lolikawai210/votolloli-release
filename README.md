@@ -1,6 +1,6 @@
 # VotolLoli
 
-BLE & SPP Tool for Votol Controller
+BLE & SPP Tool for Votol Controller , support module jdy-31,33, hc-05/06 , hm-10 ....v..v.. 
 
 ## 📥 Download
 

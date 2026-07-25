@@ -1,21 +1,27 @@
 # VotolLoli
 
-BLE Tool for Votol Controller
+BLE & SPP Tool for Votol Controller
 
-## Download
+## 📥 Download
 
-- Android: `votololi.apk`
-- iOS: `VotolLoli.ipa`
+- Android: **votololi.apk**
+- iOS: **VotolLoli.ipa**
+
+---
 
 ## ❤️ Donate
 
-Nếu ứng dụng hữu ích, bạn có thể ủng hộ mình:
+Nếu ứng dụng giúp ích cho bạn, hãy mời mình một ly cà phê ☕.
 
-MoMo:
-- SĐT: +84866704348
+<p align="center">
+  <img src="images/qr-donate.jpg" width="280">
+</p>
 
-Techcombank:
-- STK: 19075846599011
-- Chủ TK: Nguyễn Hữu Quang Huy
+**MoMo:** +84866704348
 
-Xin cảm ơn ❤️
+**Techcombank**
+
+- STK: **19075846599011**
+- Chủ TK: **Nguyễn Hữu Quang Huy**
+
+Xin cảm ơn mọi sự ủng hộ ❤️

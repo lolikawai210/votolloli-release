@@ -6,6 +6,7 @@ BLE & SPP Tool for Votol Controller , support module jdy-31,33, hc-05/06 , hm-10
 
 - Android: **votololi.apk**
 - iOS 14 or late : **VotolLoli.ipa**
+- chọn vào tag để thấy file tải 
 
 ---
 

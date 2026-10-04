@@ -3,10 +3,9 @@
 BLE & SPP Tool for Votol Controller , support module jdy-31,33,23 hc-05/06 , hm-10 ....v..v.. 
 
 ## 📥 Download
-hoặc copy đường link này : https://github.com/lolikawai210/votolloli-release/releases/tag/1.1.5
 - iOS 14 or late : **VotolLoli.ipa**
 - chọn vào Tag để thấy file tải 
-
+hoặc copy đường link này : https://github.com/lolikawai210/votolloli-release/releases/tag/v1.1.6
   Từ bản V1.0.9 đã có tính năng up file bin sửa lỗi , link lấy file bin : https://www.itlongkhanh.com/p/cong-cu-hieu-chinh-phan-mem-votol.html
 ---
 

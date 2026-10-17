@@ -17,7 +17,7 @@ Nếu ứng dụng giúp ích cho bạn, hãy mời mình một ly cà phê ☕.
   <img src="qr-donate.jpg" width="280">
 </p>
 
-**MoMo:** +84866704348
+
 
 **Techcombank**
 
